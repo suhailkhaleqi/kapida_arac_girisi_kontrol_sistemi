@@ -1,4 +1,4 @@
-# kapıda aras girisi kontrol sistemi
+# kapıda arac girisi kontrol sistemi
 
 Benim geliştirdiğim projede kapı önünde gelen aracı tespit ediyor. Şimdilik proje daha temel seviyede olduğu için aracı görmek için kamera değil, direkt modele bir aracın fotoğrafını gösteriyoruz. İleri aşamalarda bunu direkt canlı kameraya entegre edebiliriz.
 
