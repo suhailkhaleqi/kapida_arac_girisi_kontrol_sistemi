@@ -1,0 +1,1 @@
+# Kap-da-Ara-Giri-i-Kontrol-Sistemi
