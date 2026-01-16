@@ -1,6 +1,6 @@
 # kapıda arac girisi kontrol sistemi
 
-Benim geliştirdiğim projede kapı önünde gelen aracı tespit ediyor. Şimdilik proje daha temel seviyede olduğu için aracı görmek için kamera değil, direkt modele bir aracın fotoğrafını gösteriyoruz. İleri aşamalarda bunu direkt canlı kameraya entegre edebiliriz.
+Benim geliştirdiğim projede kapı önünde gelen aracı tespit ediyor. Şimdilik proje daha temel seviyede olduğu için aracı gostermek için kamera değil, direkt modele bir aracın fotoğrafını gösteriyoruz. İleri aşamalarda bunu direkt canlı kameraya entegre edebiliriz.
 
 Biz bir aracı gösterdiğimizde aracın türünü biliyor; mesela (araç car, bus, truck). Sonrasında aracın plakasını okuyor.
 
