@@ -40,6 +40,7 @@ ornek kod parcasi :<br>
 from ultralytics import yolo<br>
 model = yolo(yolov8n.pt)<br>
 result = model (image_path)<br>
+![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/e38d9352d6aa960e71b8e37b81e217ef253dd4ea/code_image/detect_vehicle.png)
 
 **2) plate_ocr.py :<br>**
 bu dosya gorselden plakayi okuyor ve metne ceviriyor<br>
