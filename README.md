@@ -79,6 +79,7 @@ ve en son projenin sonunda geldik ve sonuclari ekranda yazacaktir
 
 ---
 ![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/6bbbfc20c69a8aa26ae1a6b1673ef0c92ef3ef3c/benz2.jpg)
+![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/3df1b27e06a1bb2169d0a7663835854f8cab8b4d/Screenshot%202026-01-19%20223936.png)
 
 
 
