@@ -59,6 +59,7 @@ mesela :White car, sedan type vehicle<br>
 ornek kod parcasi :<br>
 def describe_vehicle(vehicle_type):<br>
     return f"This is a {vehicle_type} vehicle."<br>
+![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/9e9672d4bbdef95ece5895c42f2f4395c682fb07/code_image/description.png)    
 
 **4)decision_engine.py:<br>**
 okunan plakayi alir databaste varsa islesip aracin icere aliyor <br>
