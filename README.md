@@ -72,3 +72,5 @@ else:<br>
 
 
 ve en son projenin sonunda geldik ve sonuclari ekranda yazacaktir 
+
+![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/4a5d7391ce22894c3a738f28a6f9d98f94889e86/araba_pilakasi.jpg)
