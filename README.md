@@ -2,7 +2,7 @@
 
 Benim geliştirdiğim projede kapı önünde gelen aracı tespit ediyor. Şimdilik proje daha temel seviyede olduğu için aracı gostermek için kamera değil, direkt modele bir aracın fotoğrafını gösteriyoruz. İleri aşamalarda bunu direkt canlı kameraya entegre edebiliriz.
 
-Biz bir aracı gösterdiğimizde aracın türünü biliyor; mesela (araç car, bus, truck). Sonrasında aracın plakasını okuyor.
+Biz bir aracı gösterdiğimizde aracın türünü biliyor; mesela araç (car, bus, truck). Sonrasında aracın plakasını okuyor.
 
 Okuyan plakayı veri tabanı ile karşılaştırıyor. Eğer okuduğu plaka veri tabanında mevcutsa plakaları eşleşip aracı içeri alıyor, aksi halde aracı içeri izin vermiyor. Ayrıca bunun yanı sıra eğer aracın türü "truck" ise onu da içeri almayıp engelliyor.
 
