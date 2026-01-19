@@ -74,3 +74,5 @@ else:<br>
 ve en son projenin sonunda geldik ve sonuclari ekranda yazacaktir 
 
 ![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/4a5d7391ce22894c3a738f28a6f9d98f94889e86/araba_pilakasi.jpg)
+![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/78af68b4ca3a8783c76efa7fe9c4b272fe682728/Screenshot%202026-01-19%20222219.png)
+
