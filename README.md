@@ -72,6 +72,7 @@ if plate in db["plate"].values:<br>
     return "Access Granted"<br>
 else:<br>
     return "Access Denied"<br>
+![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/8742b37a97680922d6a9f9a4ed3a70cbf671717d/code_image/decision_engine.png)    
 
 
 ve en son projenin sonunda geldik ve sonuclari ekranda yazacaktir 
