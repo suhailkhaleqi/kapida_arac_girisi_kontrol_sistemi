@@ -50,6 +50,7 @@ import easyocr<br>
 reader = easyocr.Reader(['en'])<br>
 result = reader.readtext(plate_image)<br>
 sonucunda plaka metni elde ediliyor <br>
+![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/858d59c02e1e79e6fddb161f4a77ef5a3f125758/code_image/plate_ocr.png)
 
 **3) vlm_description.py:<br>**
 kisa ve anlasilir bir cumle yaziyor <br>
