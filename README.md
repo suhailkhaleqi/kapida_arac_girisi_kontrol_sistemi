@@ -12,7 +12,7 @@ Bu bilgilerin hepsini yani ekrana yazdırıyor. Böylece her aracı gösterdiği
 
 Şimdi projenin genel yapısından biraz bahsedelim: Projemizde bir main.py dosyamız ve yanında requirements.txt diye yardımcı paketlerimiz var.
 
-**Kaynak kısmında dört tane Python dosyalarımız var:<br>**
+### Kaynak kısmında dört tane Python dosyalarımız var:<br>
 detect_vehicle.py<br>
 plate_ocr.py<br>
 vlm_description.py<br>
@@ -33,7 +33,7 @@ from scr.decesion_engine import decide_access<br>
 
 Kaynak kısmında kısa bir şekilde dosyaları anlatacağım:
 
-**1)detect_vehicle.py:<br>**
+### 1)detect_vehicle.py:<br>
 dosyasi araci bulup aracin turunu bililiyor Burada hazır eğitilmiş bir YOLO modeli kullandim<br>
 
 ornek kod parcasi :<br>
@@ -42,7 +42,7 @@ model = yolo(yolov8n.pt)<br>
 result = model (image_path)<br>
 ![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/e38d9352d6aa960e71b8e37b81e217ef253dd4ea/code_image/detect_vehicle.png)
 
-**2) plate_ocr.py :<br>**
+### 2) plate_ocr.py :<br>
 bu dosya gorselden plakayi okuyor ve metne ceviriyor<br>
  
 ornek kod parcasi :<br>
@@ -52,7 +52,7 @@ result = reader.readtext(plate_image)<br>
 sonucunda plaka metni elde ediliyor <br>
 ![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/858d59c02e1e79e6fddb161f4a77ef5a3f125758/code_image/plate_ocr.png)
 
-**3) vlm_description.py:<br>**
+### 3) vlm_description.py:<br>
 kisa ve anlasilir bir cumle yaziyor <br>
 mesela :White car, sedan type vehicle<br>
 
@@ -61,7 +61,7 @@ def describe_vehicle(vehicle_type):<br>
     return f"This is a {vehicle_type} vehicle."<br>
 ![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/9e9672d4bbdef95ece5895c42f2f4395c682fb07/code_image/description.png)    
 
-**4)decision_engine.py:<br>**
+### 4)decision_engine.py:<br>
 okunan plakayi alir databaste varsa islesip aracin icere aliyor <br>
 
 ornek kod parcasi :<br>
