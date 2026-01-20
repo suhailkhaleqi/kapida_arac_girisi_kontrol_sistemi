@@ -30,6 +30,7 @@ from scr.detect_vehicle import detect_vehicle<br>
 from scr.plate_ocr import read_plate<br>
 from scr.vlm_description import describe_vehicle<br>
 from scr.decesion_engine import decide_access<br>
+![image alt](https://github.com/suhailkhaleqi/kapida_arac_girisi_kontrol_sistemi/blob/60ec292c3b4a5d8ae999af8fdd3b57f8eeb75ab9/code_image/main.png)
 
 Kaynak kısmında kısa bir şekilde dosyaları anlatacağım:
 
